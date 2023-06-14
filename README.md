@@ -7,6 +7,7 @@ A V2Ray client for Android
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/2dust/v2rayNG)](https://github.com/2dust/v2rayNG/commits/master)
 [![CodeFactor](https://www.codefactor.io/repository/github/2dust/v2rayng/badge)](https://www.codefactor.io/repository/github/2dust/v2rayng)
 [![GitHub Releases](https://img.shields.io/github/downloads/2dust/v2rayNG/latest/total?logo=github)](https://github.com/2dust/v2rayNG/releases)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F305945865%2Fv2rayNG.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F305945865%2Fv2rayNG?ref=badge_shield)
 
 <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
@@ -23,3 +24,7 @@ The aar can be compiled from the Golang project under AndroidLibV2rayLite folder
 and [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
 
 v2rayNG can run on Android Emulators, with minimum Android 5.0
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F305945865%2Fv2rayNG.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F305945865%2Fv2rayNG?ref=badge_large)
